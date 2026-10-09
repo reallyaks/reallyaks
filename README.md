@@ -2,9 +2,9 @@ Small legal and agent tools. Not a firm, and not legal advice.
 
 Open these three first. Each one has a sample already in the repo.
 
-- [clause-diff](https://github.com/reallyaks/clause-diff) — two DOCX drafts in, a Word redline out, with moves and phrase comments. Open [the NDA redline](https://github.com/reallyaks/clause-diff/blob/main/samples/nda/redline.md).
+- [clause-diff](https://github.com/reallyaks/clause-diff) — two DOCX drafts in, a Word redline out. Comments are the English-law points a markup actually moves. Open [the NDA redline](https://github.com/reallyaks/clause-diff/blob/main/samples/nda/redline.md).
 - [agent-trace-eval](https://github.com/reallyaks/agent-trace-eval) — the model work. Twelve tasks against any OpenAI-compatible endpoint, and a dry-run scorecard you can read with no key. The citation-refusal task is the one that matters. Open [the scorecard](https://github.com/reallyaks/agent-trace-eval/blob/main/samples/scorecard.md).
-- [citation-check](https://github.com/reallyaks/citation-check) — a memo in, a citation-form report out. Open [the report](https://github.com/reallyaks/citation-check/blob/main/samples/citation-report.md).
+- [citation-check](https://github.com/reallyaks/citation-check) — English citation form: neutral citations, law reports, and ibid. Open [the report](https://github.com/reallyaks/citation-check/blob/main/samples/citation-report.md).
 
 The rest, one line each.
 
